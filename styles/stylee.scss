@@ -299,9 +299,9 @@ section {
                         width: 60%;
                     }
                     .html { width: 80%; }
-                    .css { width: 50%; }
+                    .css { width: 95%; }
                     .js { width: 75%; }
-                    .csharp { width: 80%; }
+                    .react{ width: 60%; }
                     .node{ width: 87%; }
                     .python{ width: 70%; }
                 }
@@ -566,7 +566,7 @@ section {
             }
         }
     }
-S
+
     .right-contact {
         flex: 3;
         margin-left: 3rem;
@@ -595,7 +595,6 @@ S
         .submit-btn {
             display: flex;
             justify-content: flex-start;
-
         }
     }
 }
